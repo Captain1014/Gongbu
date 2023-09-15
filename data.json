@@ -1,0 +1,260 @@
+[
+    {
+        "question": "[     ] 있어요?",
+        "trans": "Do you have a girlfriend?",
+        "option1": "맛있는",
+        "option2": "먹다",
+        "option3": "여자친구",
+        "option4": "재미있는",
+        "correctOption": 3,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+   
+    {
+        "question": "[     ] 있어요?",
+        "trans": "Do you have an iced americano?",
+        "option1": "아이스 아메리카노",
+        "option2": "예쁘다",
+        "option3": "공부",
+        "option4": "재미있다",
+        "correctOption": 1,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "[     ] 있어요?",
+        "trans": "Is it fun?",
+        "option1": "재미",
+        "option2": "건강하다",
+        "option3": "공부",
+        "option4": "먹다",
+        "correctOption": 1,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "한국에 [     ] 있어요.",
+        "trans": "There are pretty cafes in Korea.",
+        "option1": "재미",
+        "option2": "예쁜 카페",
+        "option3": "맛있는",
+        "option4": "재미있는",
+        "correctOption": 2,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "아니요, [     ] 없어요.",
+        "trans": "No, I don't have money.",
+        "option1": "청소하는",
+        "option2": "공부하는",
+        "option3": "돈",
+        "option4": "저는",
+        "correctOption": 3,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "네, [     ] 있어요.",
+        "trans": "Yes, I have money.",
+        "option1": "민수는",
+        "option2": "저는",
+        "option3": "엄마는",
+        "option4": "돈",
+        "correctOption": 4,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "이 드라마 [     ] 있어요?",
+        "trans": "Is this drama fun?",
+        "option1": "재미있는",
+        "option2": "재미있다",
+        "option3": "재미있을",
+        "option4": "재미",
+        "correctOption": 4,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "[      ] 있어요?",
+        "trans" : "Is there pineapple pizza?",
+        "option1": "가다",
+        "option2": "파인애플 피자",
+        "option3": "오다",
+        "option4": "숙제를 하다",
+        "correctOption": 2,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "미국에 [      ] 없어요?",
+        "trans": "Isn't there Kimchi in the US?",
+        "option1": "참치",
+        "option2": "김밥",
+        "option3": "김치",
+        "option4": "김치를",
+        "correctOption": 3,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "우리 수업 [      ] 있어요?",
+        "trans": "Is our class fun?",
+        "option1": "재미를",
+        "option2": "재미는",
+        "option3": "재미을",
+        "option4": "재미",
+        "correctOption": 4,
+        "category": "Level 1",
+        "difficulty": "Beginner"
+    },
+  
+
+    
+    {
+        "question": "Qustion 1",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+   
+    {
+        "question": "Qustion 2",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "Qustion 3",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "Qustion 4",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "Qustion 5",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "Qustion 6",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "Qustion 7",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+
+    {
+        "question": "Qustion 8",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "Qustion 9",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "Qustion 10",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 2",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "Qustion 1",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "Qustion 1",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "Qustion 1",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Mercury",
+        "option4": "Pluto",
+        "correctOption": 1,
+        "category": "Level 5",
+        "difficulty": "Beginner"
+    }
+
+]
