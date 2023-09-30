@@ -5,6 +5,7 @@ import React from 'react';
 
 import LevelSelection from './screens/LevelSelection';
 import Quiz from './screens/Quiz';
+import Preview from './screens/Preview';
 
 const Stack = createStackNavigator();
 
@@ -14,6 +15,7 @@ const App = () => {
       <Stack.Navigator initialRouteName="LevelSelection">
         <Stack.Screen name="LevelSelection" component={LevelSelection} />
         <Stack.Screen name="Quiz" component={Quiz} />
+        <Stack.Screen name="Preview" component={Preview} />
       </Stack.Navigator>
     </NavigationContainer>
   );

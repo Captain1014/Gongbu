@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { firebase } from '../config'; // Import your Firebase configuration
+import { useNavigation } from '@react-navigation/native'; // Import navigation hook
 
 const Quiz = ({ route }) => {
   const [questions, setQuestions] = useState([]);
@@ -10,6 +11,7 @@ const Quiz = ({ route }) => {
   const [showResults, setShowResults] = useState(false);
 
   const { category } = route.params;
+  const navigation = useNavigation();
 
   useEffect(() => {
     getQuestions();
@@ -43,6 +45,11 @@ const Quiz = ({ route }) => {
       prevSelectedOption === option ? null : option
     );
   };
+
+  const handlePrep = () => {
+    // Navigate to the 'preview' page and pass the selected level as a parameter
+    navigation.navigate('Preview', { category });
+  };
   
 
   const handleNextQuestion = () => {
@@ -72,8 +79,17 @@ const Quiz = ({ route }) => {
           {/* Display correct and incorrect answers here */}
         </View>
       ) : questions.length > 0 ? ( // Check if there are questions available
-        // Display the current question
+      
+          // Display the current question
+
+          
         <View style={styles.questionContainer}>
+           {/* Prep button */}
+           <TouchableOpacity 
+          style={styles.prepButton} 
+          onPress={handlePrep}>
+            <Text style={{fontSize: 20}}>😬Want to prep first?😰</Text>
+          </TouchableOpacity>
           <Text style={styles.question}>
             <Text style={{fontSize : 18}}>Question {currentQuestionIndex + 1}/{questions.length}</Text>
             {'\n'}
@@ -102,6 +118,7 @@ const Quiz = ({ route }) => {
           >
             <Text>Next</Text>
           </TouchableOpacity>
+         
         </View>
       ) : (
         // Display a loading indicator or message while loading questions
@@ -144,6 +161,14 @@ const styles = StyleSheet.create({
     marginTop: 20,
     padding: 10,
     backgroundColor: 'skyblue',
+    borderRadius: 5,
+  },
+  prepButton: {
+    marginBottom: 40,
+    padding: 10,
+    width: 240,
+    alignItems: 'center',
+    backgroundColor: 'pink',
     borderRadius: 5,
   },
   buttonText: {
