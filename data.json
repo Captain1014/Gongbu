@@ -2,10 +2,10 @@
     {
         "question": "[     ] 있어요?",
         "trans": "Do you have a girlfriend?",
-        "option1": "맛있는",
-        "option2": "먹다",
+        "option1": "친구",
+        "option2": "남자친구",
         "option3": "여자친구",
-        "option4": "재미있는",
+        "option4": "친구들",
         "correctOption": 3,
         "category": "Level 1",
         "difficulty": "Beginner"
@@ -15,9 +15,9 @@
         "question": "[     ] 있어요?",
         "trans": "Do you have an iced americano?",
         "option1": "아이스 아메리카노",
-        "option2": "예쁘다",
-        "option3": "공부",
-        "option4": "재미있다",
+        "option2": "아메리카노",
+        "option3": "아이스크림",
+        "option4": "카라멜 마끼아또",
         "correctOption": 1,
         "category": "Level 1",
         "difficulty": "Beginner"
@@ -27,7 +27,7 @@
         "question": "[     ] 있어요?",
         "trans": "Is it fun?",
         "option1": "재미",
-        "option2": "건강하다",
+        "option2": "건강",
         "option3": "공부",
         "option4": "먹다",
         "correctOption": 1,
@@ -38,10 +38,10 @@
     {
         "question": "한국에 [     ] 있어요.",
         "trans": "There are pretty cafes in Korea.",
-        "option1": "재미",
+        "option1": "조용한 카페",
         "option2": "예쁜 카페",
-        "option3": "맛있는",
-        "option4": "재미있는",
+        "option3": "맛있는 카페",
+        "option4": "재미있는 카페",
         "correctOption": 2,
         "category": "Level 1",
         "difficulty": "Beginner"
@@ -50,10 +50,10 @@
     {
         "question": "아니요, [     ] 없어요.",
         "trans": "No, I don't have money.",
-        "option1": "청소하는",
-        "option2": "공부하는",
+        "option1": "간",
+        "option2": "물",
         "option3": "돈",
-        "option4": "저는",
+        "option4": "돈을",
         "correctOption": 3,
         "category": "Level 1",
         "difficulty": "Beginner"
@@ -62,9 +62,9 @@
     {
         "question": "네, [     ] 있어요.",
         "trans": "Yes, I have money.",
-        "option1": "민수는",
-        "option2": "저는",
-        "option3": "엄마는",
+        "option1": "돈은",
+        "option2": "돈을",
+        "option3": "돌",
         "option4": "돈",
         "correctOption": 4,
         "category": "Level 1",
@@ -86,10 +86,10 @@
     {
         "question": "[      ] 있어요?",
         "trans" : "Is there pineapple pizza?",
-        "option1": "가다",
+        "option1": "치즈 피자",
         "option2": "파인애플 피자",
-        "option3": "오다",
-        "option4": "숙제를 하다",
+        "option3": "아이스 아메리카노",
+        "option4": "맛있는 피자",
         "correctOption": 2,
         "category": "Level 1",
         "difficulty": "Beginner"
@@ -133,7 +133,7 @@
    
     {
         "question": "누구랑 [        ]?",
-        "trans": "Who did you go with?",
+        "trans": "Who did you travel with?",
         "option1": "여행해요",
         "option2": "여행하다",
         "option3": "여행했어요",
@@ -180,7 +180,7 @@
     },
 
     {
-        "question": "정국아, 오늘 [     ]?",
+        "question": "정국아, 오늘 [       ]?",
         "trans": "Jungkook, did you do your homework today?",
         "option1": "했어",
         "option2": "안 했어",
@@ -237,34 +237,237 @@
         "difficulty": "Beginner"
     },
     {
-        "question": "Qustion 1",
-        "option1": "Mars",
-        "option2": "Venus",
-        "option3": "Mercury",
-        "option4": "Pluto",
+        "question": "저는 한국에 [        ]",
+        "trans": "I want to go to Korea.",
+        "option1": "가요",
+        "option2": "가고 싶어요",
+        "option3": "갈 거예요",
+        "option4": "가고 싶어",
+        "correctOption": 2,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "오늘 뭐 [      ]?",
+        "trans": "What do you want to eat today?",
+        "option1": "먹어요",
+        "option2": "먹었어요",
+        "option3": "먹을 거예요",
+        "option4": "먹고 싶어요",
+        "correctOption": 4,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "나도 같이 [       ].",
+        "trans": "I want to go too.",
+        "option1": "가고 싶어요",
+        "option2": "가고 싶어",
+        "option3": "가요",
+        "option4": "가는 거예요",
+        "correctOption": 2,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "한국에서 제일 뭐 [       ]?",
+        "trans": "What do you want to do the most in Korea?",
+        "option1": "가고 싶어",
+        "option2": "먹고 싶어",
+        "option3": "해고 싶어",
+        "option4": "하고 싶어",
+        "correctOption": 4,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "오늘 우리집에 [        ]?",
+        "trans": "Do you want to come to my house today?",
+        "option1": "가고 싶어요",
+        "option2": "오고 싶어",
+        "option3": "갈 거예요",
+        "option4": "가고 싶어",
+        "correctOption": 2,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "뭐 [      ]?",
+        "trans": "What do you want to drink?",
+        "option1": "마셔요",
+        "option2": "마시는 거예요",
+        "option3": "마시고 싶어요",
+        "option4": "마시고 싶은 거예요",
+        "correctOption": 3,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "무슨 책 [       ]?",
+        "trans": "What book do you want to read?",
+        "option1": "읽고 싶어요",
+        "option2": "쓰고 싶어요",
+        "option3": "배우고 싶어요",
+        "option4": "읽으러 갈 거예요",
         "correctOption": 1,
         "category": "Level 3",
         "difficulty": "Beginner"
     },
     {
-        "question": "Qustion 1",
-        "option1": "Mars",
-        "option2": "Venus",
-        "option3": "Mercury",
-        "option4": "Pluto",
-        "correctOption": 1,
+        "question": "토요일에 새로운 영화 [      ].",
+        "trans": "I want to watch a new movie on Saturday.",
+        "option1": "알고 싶어요",
+        "option2": "가고 싶어요",
+        "option3": "보고 싶어요",
+        "option4": "오고 싶어요",
+        "correctOption": 3,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "제 지갑 [        ].",
+        "trans": "I want to find my wallet.",
+        "option1": "찾아요",
+        "option2": "찾으러 갈 거예요",
+        "option3": "찾았어요",
+        "option4": "찾고 싶어요",
+        "correctOption": 4,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "생일선물로 아이폰을 [        ].",
+        "trans": "I want to receive an iPhone as a birthday present.",
+        "option1": "받을 거예요",
+        "option2": "받아요",
+        "option3": "받고 싶어요",
+        "option4": "받았어요",
+        "correctOption": 3,
+        "category": "Level 3",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "저는 내년에 한국에 [      ].",
+        "trans": "I will go to Korea next year.",
+        "option1": "가요",
+        "option2": "가고 싶어요",
+        "option3": "갈 거예요",
+        "option4": "가고 싶어",
+        "correctOption": 3,
         "category": "Level 4",
         "difficulty": "Beginner"
     },
     {
-        "question": "Qustion 1",
-        "option1": "Mars",
-        "option2": "Venus",
-        "option3": "Mercury",
-        "option4": "Pluto",
-        "correctOption": 1,
+        "question": "오늘 꼭 숙제를 [       ].",
+        "trans": "I will do my homework today no matter what.",
+        "option1": "해요",
+        "option2": "할 거예요",
+        "option3": "갈 거예요",
+        "option4": "할지도 몰라요",
+        "correctOption": 2,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "오늘 꼭 숙제를 [       ].",
+        "trans": "I will do my homework today no matter what.",
+        "option1": "해요",
+        "option2": "할 거예요",
+        "option3": "갈 거예요",
+        "option4": "할지도 몰라요",
+        "correctOption": 2,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "이번주에 한국어를 더 [       ].",
+        "trans": "I will study more this week.",
+        "option1": "공부 많이 할 거예요",
+        "option2": "많이 할 공부예요",
+        "option3": "공부 할 거예요 많이",
+        "option4": "많이 공부 할 거예요",
+        "correctOption": 4,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "다음 주에 새로운 떡볶이 레시피를 [      ].",
+        "trans": "I will try a new tteokbokki recipe next week.",
+        "option1": "마주칠 거예요",
+        "option2": "시작할 거예요",
+        "option3": "시도할 거예요",
+        "option4": "시도합니다",
+        "correctOption": 3,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "내일 아침에 [      ]?",
+        "trans": "Will you exercise tomorrow morning?",
+        "option1": "운동 하겠어요",
+        "option2": "운동 하는 중이에요",
+        "option3": "운동하려고 해요",
+        "option4": "운동할 거예요",
+        "correctOption": 4,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "주말에 친구를 [        ].",
+        "trans": "I will meet my friend on the weekend.",
+        "option1": "놀 거예요",
+        "option2": "만날 거예요",
+        "option3": "만날까요",
+        "option4": "만날게요",
+        "correctOption": 2,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "내일 도서관에 [      ]?",
+        "trans": "Will you come to the library tomorrow?",
+        "option1": "갈 거예요",
+        "option2": "잘 거예요",
+        "option3": "왔었을 거예요",
+        "option4": "올 거예요",
+        "correctOption": 4,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "내일 아침에 일찍 [       ].",
+        "trans": "I will wake up early tomorrow morning.",
+        "option1": "잘 거예요",
+        "option2": "할 거예요",
+        "option3": "갈 거예요",
+        "option4": "일어날 거예요",
+        "correctOption": 4,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "제 생일선물로 뭐 [          ]?",
+        "trans": "What will you give me as a birthday present?",
+        "option1": "걸 거예요",
+        "option2": "할 거예요",
+        "option3": "줄 거예요",
+        "option4": "잘 거예요",
+        "correctOption": 3,
+        "category": "Level 4",
+        "difficulty": "Beginner"
+    },
+    {
+        "question": "",
+        "trans": "What will you give me as a birthday present?",
+        "option1": "걸 거예요",
+        "option2": "할 거예요",
+        "option3": "줄 거예요",
+        "option4": "잘 거예요",
+        "correctOption": 3,
         "category": "Level 5",
         "difficulty": "Beginner"
     }
+
+
 
 ]
