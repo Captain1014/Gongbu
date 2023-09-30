@@ -369,13 +369,13 @@
         "difficulty": "Beginner"
     },
     {
-        "question": "오늘 꼭 숙제를 [       ].",
-        "trans": "I will do my homework today no matter what.",
+        "question": "내일 한국 식당에 누구랑 [       ]?",
+        "trans": "Who will you go to the Korean restaurant with tomorrow?",
         "option1": "해요",
         "option2": "할 거예요",
         "option3": "갈 거예요",
         "option4": "할지도 몰라요",
-        "correctOption": 2,
+        "correctOption": 3,
         "category": "Level 4",
         "difficulty": "Beginner"
     },
