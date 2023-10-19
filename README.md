@@ -1,8 +1,8 @@
 # Gongbu
 Gongbu is a Korean learning quiz app designed to help you improve your Korean language skills while having fun. Whether you're a beginner or an intermediate learner, Gongbu offers a range of levels and questions to challenge your Korean language proficiency.
 
-<img src="mainScreen.png" width="300" height="200">
-<img src="quizScreen.png" width="300" height="200">
+<img src="mainScreen.png" width="600" height="300">
+<img src="quizScreen.png" width="600" height="300">
 
 ## Table of Contents
 * Features
