@@ -5,10 +5,10 @@ Gongbu is a Korean learning quiz app designed to help you improve your Korean la
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding: 5px;">
-    <img src="quizScreen.png" alt="Quiz Screen" style="max-width: 100%; height: auto;">
+    <img src="quizScreen.png" alt="Quiz Screen" style="max-width: 48%; height: auto;">
   </div>
   <div style="flex: 1; padding: 5px;">
-    <img src="mainScreen.png" alt="Main Screen" style="max-width: 100%; height: auto;">
+    <img src="mainScreen.png" alt="Main Screen" style="max-width: 48%; height: auto;">
   </div>
 </div>
 
